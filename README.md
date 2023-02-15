@@ -59,9 +59,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://profile-counter.glitch.me/BaselAbuHamed/count.svg"></img>
 </div>
  
-</p>
-<br />
-<h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
-<br />
-
+***
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
